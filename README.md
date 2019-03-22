@@ -15,5 +15,5 @@ If you are using the above noteoboks, all functions are loaded for you already a
 
 To use the functions in your own applications (after installation):
 ```
-import python_exercises
+import exercise_solutions
 ```
