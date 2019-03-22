@@ -1,7 +1,7 @@
 This is a single module containing all the requisite functions for the [python_exercises](https://github.com/BelfastTechTraining/python/tree/master/python_exercises) notebooks to work properly.
 
 ## Requirements
-only python3 is needed
+Only python3 is needed
 
 ## Installation
 ```
